@@ -1,0 +1,9 @@
+.app {
+  font-family: system-ui, sans-serif;
+}
+
+.content {
+  padding: 0 1rem;
+  max-width: 960px;
+  margin: auto;
+}

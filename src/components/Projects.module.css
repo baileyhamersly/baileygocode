@@ -1,0 +1,13 @@
+.projects {
+  padding: 2rem 0;
+}
+.grid {
+  display: grid;
+  gap: 1rem;
+}
+.card {
+  padding: 1rem;
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
